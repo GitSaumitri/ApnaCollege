@@ -1,18 +1,17 @@
-/* linked list reatated problems
-    1. insert at head in a linkedlist
-    2. insert at back in a linkedlist
-    3. Search in an linkedlist
-    4. Deletion from a linkedlist
-    5. Reverse a linkedlist by iterative method
-    6. Reverse a linkedlist by recurssive method
-    7. Reverse alternate k nodes in a linkedlist by recurssive method
-        or Reverse nodes in k groups 
-    8. Detect and remove a cycle on a linkedlist
-        Floyd's Angorithm/ Hare and Tortoise Algorithm
-    9. Append last k nodes in the beginning of the linkedlist
-   10. Put even position nodes after odd position node
+// linked list reatated problems
+//    1. insert at head in a linkedlist
+//    2. insert at back in a linkedlist
+//    3. Search in an linkedlist
+//    4. Deletion from a linkedlist
+//    5. Reverse a linkedlist by iterative method
+//    6. Reverse a linkedlist by recurssive method
+//    7. Reverse alternate k nodes in a linkedlist by recurssive method
+//        or Reverse nodes in k groups 
+//    8. Detect and remove a cycle on a linkedlist
+//        Floyd's Angorithm/ Hare and Tortoise Algorithm
+//    9. Append last k nodes in the beginning of the linkedlist
+//   10. Put even position nodes after odd position node
 
-*/
 #include<iostream>
 using namespace std;
 
